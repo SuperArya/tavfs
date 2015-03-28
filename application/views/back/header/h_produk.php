@@ -5,7 +5,7 @@
 <!--<![endif]-->
 <head>
 	<meta charset="utf-8" />
-	<title>Color Admin | Wizards + Validation</title>
+	<title>Color Admin | Form Elements</title>
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
 	<meta content="" name="description" />
 	<meta content="" name="author" />
@@ -20,9 +20,4 @@
 	<link href="<?php echo base_url(); ?>assets/back/css/style-responsive.min.css" rel="stylesheet" />
 	<link href="<?php echo base_url(); ?>assets/back/css/theme/default.css" rel="stylesheet" id="theme" />
 	<!-- ================== END BASE CSS STYLE ================== -->
-	
-	<!-- ================== BEGIN PAGE LEVEL STYLE ================== -->
-	<link href="<?php echo base_url(); ?>assets/back/plugins/bootstrap-wizard/css/bwizard.min.css" rel="stylesheet" />
-	<link href="<?php echo base_url(); ?>assets/back/plugins/parsley/src/parsley.css" rel="stylesheet" />
-	<!-- ================== END PAGE LEVEL STYLE ================== -->
 </head>
