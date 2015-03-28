@@ -5,7 +5,7 @@
 <!--<![endif]-->
 <head>
 	<meta charset="utf-8" />
-	<title>Color Admin | Dashboard v2</title>
+	<title>Color Admin | Wizards + Validation</title>
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
 	<meta content="" name="description" />
 	<meta content="" name="author" />
@@ -21,10 +21,8 @@
 	<link href="<?php echo base_url(); ?>assets/back/css/theme/default.css" rel="stylesheet" id="theme" />
 	<!-- ================== END BASE CSS STYLE ================== -->
 	
-	<!-- ================== BEGIN PAGE LEVEL CSS STYLE ================== -->
-    <link href="<?php echo base_url(); ?>assets/back/plugins/jquery-jvectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" />
-    <link href="<?php echo base_url(); ?>assets/back/plugins/bootstrap-calendar/css/bootstrap_calendar.css" rel="stylesheet" />
-    <link href="<?php echo base_url(); ?>assets/back/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" />
-    <link href="<?php echo base_url(); ?>assets/back/plugins/morris/morris.css" rel="stylesheet" />
-	<!-- ================== END PAGE LEVEL CSS STYLE ================== -->
+	<!-- ================== BEGIN PAGE LEVEL STYLE ================== -->
+	<link href="<?php echo base_url(); ?>assets/back/plugins/bootstrap-wizard/css/bwizard.min.css" rel="stylesheet" />
+	<link href="<?php echo base_url(); ?>assets/back/plugins/parsley/src/parsley.css" rel="stylesheet" />
+	<!-- ================== END PAGE LEVEL STYLE ================== -->
 </head>
